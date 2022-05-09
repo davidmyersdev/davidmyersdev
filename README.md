@@ -4,6 +4,6 @@ I'm a Senior Software Engineer at [Doximity](https://work.doximity.com) with a d
 
 #### More about Octo
 
-Octo is an Open Source writing/notes app built specifically for knowledge workers. Unlike other Markdown editors, it offers an all-in-one solution with a focus on privacy and security.
+Octo is an Open Source writing/notes app built specifically for knowledge workers. Unlike other Markdown editors, it offers an all-in-one solution with a focus on privacy, security, and user experience.
 
 [![A screenshot of Octo](https://raw.githubusercontent.com/writewithocto/octo/main/resources/screenshot.png)](https://octo.app)
