@@ -3,9 +3,9 @@
 A little bit about me.
 
 - I'm a Senior Software Engineer at [Doximity](https://work.doximity.com).
-- I love working on Open Source software. Check out my [public roadmap](https://github.com/users/voraciousdev/projects/1/views/1)!
+- Check out my [public OSS roadmap](https://github.com/users/voraciousdev/projects/1/views/1) to see what I'm working on.
 - I'm building a modern knowledge base tool at [octo.app](https://octo.app).
-- I occasionally write about things at [voracious.dev](https://voracious.dev).
+- I write about things I'm learning at [voracious.dev](https://voracious.dev).
 
 ### Connect with me
 
@@ -16,6 +16,6 @@ A little bit about me.
 
 ### Open Source work
 
-Octo is a personal knowledge base that is available anywhere and anytime you need it.
+Octo is an Open Source knowledge base tool that runs on any device in any (modern) browser.
 
 [![octo.app](octo.png)](https://octo.app)
