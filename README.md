@@ -3,7 +3,7 @@
 A little bit about me.
 
 - I'm a Senior Software Engineer at [Doximity](https://work.doximity.com).
-- Check out my [public OSS roadmap](https://github.com/users/voraciousdev/projects/1/views/1) to see what I'm working on.
+- Check out my [public OSS roadmap](https://github.com/users/voracious/projects/1/views/1) to see what I'm working on.
 - I'm building a modern knowledge base tool at [octo.app](https://octo.app).
 - I write about things I'm learning at [voracious.dev](https://voracious.dev).
 
