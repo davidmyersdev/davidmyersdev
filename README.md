@@ -3,10 +3,10 @@
 A little bit about me.
 
 - I'm a Senior Software Engineer I at [Doximity](https://work.doximity.com).
-- Check out my [public OSS roadmap](https://voracious.link/roadmap) to see what I'm working on.
-- I'm building an modern knowledge base tool at [octo.app](https://octo.app).
+- My primary focus outside of work is a second brain tool called [octo.app](https://octo.app).
+- I build in public, and I have an [OSS roadmap](https://voracious.link/roadmap) to track what I'm working on.
 - I write about things I'm learning at [voracious.dev](https://voracious.dev).
-- I reply to email. Say hello at [david@voracious.dev](mailto:david@voracious.dev).
+- Shoot me an email to say hello at [david@voracious.dev](mailto:david@voracious.dev).
 
 ### Connect with me
 
