@@ -3,7 +3,7 @@
 A little bit about me.
 
 - I am a Senior Software Engineer I at [Doximity](https://work.doximity.com).
-- My primary focus outside of work is a knowledge management tool called [OctoWiki](https://octo.wiki).
+- My primary focus outside of work is a knowledge management tool called [Octo](https://octo.wiki).
 - I build in public, and I have an [OSS roadmap](https://voracious.link/roadmap) to track what I'm working on.
 - I write about technologies I work with at [davidmyers.dev](https://davidmyers.dev).
 - Send me an email at [hello@davidmyers.dev](mailto:hello@davidmyers.dev).
