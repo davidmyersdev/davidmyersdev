@@ -1,7 +1,5 @@
 ## Hi. I'm David (he/him). ✌🏻
 
-![Hi](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fdavidmyersdev%2Fdavidmyersdev.json&color=lightblue&label=Hi&style=flat-square)
-
 A little bit about me.
 
 - I'm a Staff Software Engineer at [Doximity](https://work.doximity.com).
