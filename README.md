@@ -3,7 +3,7 @@
 A little bit about me.
 
 - I'm a Staff Software Engineer at [Doximity](https://work.doximity.com).
-- I'm building a knowledge management tool called [Octo](https://octo.wiki).
+- I maintain a knowledge management tool called [Octo](https://octo.wiki).
 - I run an inclusive Discord community called [Curious Humans](https://voracious.link/chat).
 - I have an [OSS roadmap](https://voracious.link/roadmap) to track what I'm working on.
 - I write about the technologies I use at [davidmyers.dev](https://davidmyers.dev).
