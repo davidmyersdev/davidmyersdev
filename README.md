@@ -2,11 +2,12 @@
 
 A little bit about me.
 
-- I am a Staff Software Engineer at [Doximity](https://work.doximity.com).
-- My primary focus outside of work is a knowledge management tool called [Octo](https://octo.wiki).
-- I build in public, and I have an [OSS roadmap](https://voracious.link/roadmap) to track what I'm working on.
-- I write about technologies I work with at [davidmyers.dev](https://davidmyers.dev).
-- Send me an email at [hello@davidmyers.dev](mailto:hello@davidmyers.dev).
+- I'm a Staff Software Engineer at [Doximity](https://work.doximity.com).
+- I'm building a knowledge management tool called [Octo](https://octo.wiki).
+- I run an inclusive Discord community called [Curious Humans](https://voracious.link/chat).
+- I have an [OSS roadmap](https://voracious.link/roadmap) to track what I'm working on.
+- I write about the technologies I use at [davidmyers.dev](https://davidmyers.dev).
+- Say hello at [hello@davidmyers.dev](mailto:hello@davidmyers.dev).
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://voracious.link/linkedin)
 [![Follow me on Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://voracious.link/twitter)
